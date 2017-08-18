@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/shaneelmer/Desktop/ODApps/WebView-with-Lower-Tab-Menu/node_modules/react-native/React/Modules/RCTDevMenu.h
