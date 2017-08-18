@@ -1,6 +1,12 @@
-language: node_js
+language: objective-c
+osx_image: xcode8
+xcode_sdk: iphonesimulator10.3
 
-node_js:
-  - "6"
+before_install:
+- brew install node
+- brew install watchman
+- npm install -g react-native-cli
+- npm install
 
-script: npm run ci
+script:
+- react-native run-ios
