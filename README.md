@@ -15,7 +15,7 @@ Note: To build iOS Applications with this package you must own a mac or install 
 
 
 ## Installing the Project
-There are two methods of installing the WebView with Lower Tab Menu project. We recommend using the first method for beginner users. Granted if you are fimarilar with React Native, you can always fork this project to your own. Keep in mind this package and others by OD Apps are updated regularly.
+There are many methods of installing the WebView with Lower Tab Menu project. We recommend using the first method for beginner users. Granted if you are fimarilar with React Native, you can always fork this project to your own. Keep in mind this package and others by OD Apps are updated regularly.
 
 Please download the zip package file and extract to your desktop.
 
@@ -27,7 +27,7 @@ npm install odapps
 ```
 
 
-### Method One Installing WebView with Lower Tab Menu
+### Guide for Installing WebView with Lower Tab Menu
 To get started open the Terminal / Command Promt and enter the following codes one by one.
 
 - Create a new react-native project.
