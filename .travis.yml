@@ -3,7 +3,6 @@ osx_image: xcode8
 xcode_sdk: iphonesimulator10.3
 
 before_install:
-- brew install node
 - brew install watchman
 - npm install -g react-native-cli
 - npm install
